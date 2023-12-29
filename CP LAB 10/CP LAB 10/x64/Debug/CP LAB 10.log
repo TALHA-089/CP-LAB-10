@@ -1,0 +1,9 @@
+﻿  Problem 1.cpp
+  Problem 2.cpp
+  Problem 3.cpp
+  Generating Code...
+  LINK : F:\CP LAB 10\x64\Debug\CP LAB 10.exe not found or not built by the last incremental link; performing full link
+Problem 2.obj : error LNK2005: main already defined in Problem 1.obj
+Problem 3.obj : error LNK2005: main already defined in Problem 1.obj
+Problem 4.obj : error LNK2005: main already defined in Problem 1.obj
+F:\CP LAB 10\x64\Debug\CP LAB 10.exe : fatal error LNK1169: one or more multiply defined symbols found
